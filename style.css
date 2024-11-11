@@ -159,6 +159,7 @@ header nav .search i {
 }
 
 .socials i {
+  text-decoration: none;
   color: #fbfbfb;
   font-size: 36px;
 }
