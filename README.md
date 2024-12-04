@@ -6,18 +6,13 @@ Welcome to my portfolio project! This project showcases my skills in [mention te
 
 - [Project Description](#project-description)
 - [Technologies Used](#technologies-used)
-- [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Description
 
-[Provide a brief overview of your project. Explain what it does, the problem it solves, or the value it brings. Highlight the core concepts or functionality.]
+This is a personal portfolio project that demonstrates my skills and experience in software development. The project is a web application built using modern technologies such as HTML AND CSS. The goal of the project is to showcase my ability to create a functional, user-friendly interface while also demonstrating my proficiency with bootstrap.
 
-Example:  
-This project is a [web application/mobile app] that allows users to [describe the purpose of the app]. It was built using [technologies] and follows [mention any design principles or methodologies, e.g., responsive design, MVC, etc.].
 
 ## Technologies Used
 
@@ -42,12 +37,7 @@ Make sure you have the following installed:
     ```bash
     cd your-project-name
     ```
-3. Install dependencies:
-    ```bash
-    npm install    # For Node.js projects
-    # or
-    pip install -r requirements.txt    # For Python projects
-    ```
+
 
 
 ## Contributing
@@ -65,10 +55,11 @@ If you'd like to contribute to this project, feel free to fork the repository an
 This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
 
 ---
-<img width="1512" alt="Screenshot 2024-12-04 at 12 35 28 PM" src="https://github.com/user-attachments/assets/188c319c-14f7-4e85-afd6-b4bd6fb9d703">
-<img width="1511" alt="Screenshot 2024-12-04 at 12 35 21 PM" src="https://github.com/user-attachments/assets/8c81d780-9516-434c-af9d-52c32d70bbc6">
-<img width="1505" alt="Screenshot 2024-12-04 at 12 35 02 PM" src="https://github.com/user-attachments/assets/856fb67b-b2d8-4fb5-a420-7d1cf9239907">
 <img width="1508" alt="Screenshot 2024-12-04 at 12 34 46 PM" src="https://github.com/user-attachments/assets/43b8dbc8-69cc-4f14-b381-4624a670040e">
+<img width="1505" alt="Screenshot 2024-12-04 at 12 35 02 PM" src="https://github.com/user-attachments/assets/856fb67b-b2d8-4fb5-a420-7d1cf9239907">
+<img width="1511" alt="Screenshot 2024-12-04 at 12 35 21 PM" src="https://github.com/user-attachments/assets/8c81d780-9516-434c-af9d-52c32d70bbc6">
+<img width="1512" alt="Screenshot 2024-12-04 at 12 35 28 PM" src="https://github.com/user-attachments/assets/188c319c-14f7-4e85-afd6-b4bd6fb9d703">
+
 
 Feel free to reach out if you have any questions or feedback!
 
