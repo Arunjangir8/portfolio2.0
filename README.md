@@ -3,7 +3,7 @@
 ## Description
 This is a personal portfolio website designed to showcase my skills, projects, and experiences. Built with **HTML, CSS, and JavaScript**, it provides a responsive and visually appealing interface to highlight my work and achievements.
 
-## Features
+## Features s
 - 🖥 **Responsive Design** for all screen sizes
 - 📄 **About Me Section** to introduce myself
 - 💼 **Projects Showcase** with live demos and source code links
